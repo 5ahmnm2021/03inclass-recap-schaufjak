@@ -1529,11 +1529,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 776da7b9006e526428df33cf884fc4ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Zahl1: {fileID: 1480057556}
-  Zahl2: {fileID: 1218980132}
-  Ergebnis: {fileID: 1880034921}
-  Zahl1Float: 0
-  Zahl2Float: 0
+  zahl1: {fileID: 1480057556}
+  zahl2: {fileID: 1218980132}
+  ergebnis: {fileID: 1880034921}
 --- !u!4 &1466250595
 Transform:
   m_ObjectHideFlags: 0

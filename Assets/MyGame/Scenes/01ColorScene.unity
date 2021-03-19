@@ -769,6 +769,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 776da7b9006e526428df33cf884fc4ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  zahl1: {fileID: 0}
+  zahl2: {fileID: 0}
+  ergebnis: {fileID: 0}
+  farbfeld: {fileID: 1233043127}
 --- !u!4 &1832707421
 Transform:
   m_ObjectHideFlags: 0
